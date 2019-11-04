@@ -1,0 +1,17 @@
+<mvc:View controllerName="qwerty.gitproject.controller.View1" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page id="page" title="{i18n>title}">
+					<content>
+						<InputListItem label="Invenio Office Location" id="item0">
+							<content>
+								<Input ariaLabelledBy="__item2-label" id="input1" showValueHelp="true" valueHelpRequest="officeLocation" valueHelpOnly="true"/>
+							</content>
+						</InputListItem>
+					</content>
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>

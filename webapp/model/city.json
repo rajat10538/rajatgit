@@ -1,0 +1,20 @@
+{
+	"city": [
+
+		{
+			"name": "Dwarka"
+		}, {
+			"name": "Noida"
+		}, {
+			"name": "Pune"
+		}, {
+			"name": "Mumbai (Airoli)"
+		}, {
+			"name": "Mumbai (Worli)"
+		}, {
+			"name": "Hyderabad"
+		}
+
+	]
+
+}
